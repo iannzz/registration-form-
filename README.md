@@ -18,7 +18,7 @@ Use tab keys to move from one input field to the next.
 <li><label for="userid">User id:</label></li>
 <li><input type="text" name="userid" size="12" /></li>
 <li><label for="passid">Password:</label></li>
-<li><input type="password" name="passid" size="12" /></li>
+<li><input type="password" name="passid" size="22" /></li>
 <li><label for="username">Name:</label></li>
 <li><input type="text" name="username" size="50" /></li>
 <li><label for="address">Address:</label></li>
