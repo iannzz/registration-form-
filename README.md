@@ -20,7 +20,7 @@ Use tab keys to move from one input field to the next.
 <li><label for="passid">Password:</label></li>
 <li><input type="password" name="passid" size="22" /></li>
 <li><label for="username">Name:</label></li>
-<li><input type="text" name="username" size="100" /></li>
+<li><input type="text" name="username" size="100000" /></li>
 <li><label for="address">Address:</label></li>
 <li><input type="text" name="address" size="50" /></li>
 
