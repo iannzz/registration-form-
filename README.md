@@ -1,7 +1,7 @@
 # registration-form-
 
 
-<!DOCTYPE html>
+
 <html lang="en"><head>
 <meta charset="utf-8">
 <title>JavaScript Form Validation using a sample registration form</title>
