@@ -23,14 +23,7 @@ Use tab keys to move from one input field to the next.
 <li><input type="text" name="username" size="100" /></li>
 <li><label for="address">Address:</label></li>
 <li><input type="text" name="address" size="50" /></li>
-<li><label for="country">Country:</label></li>
-<li><select name="country">
-<option selected="" value="Default">(Please select a country)</option>
-<option value="AF">Australia</option>
-<option value="AL">Canada</option>
-<option value="DZ">India</option>
-<option value="AS">Russia</option>
-<option value="AD">USA</option>
+
 </select></li>
 <li><label for="zip">ZIP Code:</label></li>
 <li><input type="text" name="zip" /></li>
